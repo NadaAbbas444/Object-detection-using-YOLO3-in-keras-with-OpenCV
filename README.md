@@ -1,4 +1,4 @@
-style="text-align: center;">**YOLOv3 trained model**</p>
+## **YOLOv3 trained model**
 
 Nada Abbas February 14, 2023
 
