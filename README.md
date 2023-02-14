@@ -10,4 +10,3 @@ YOLOv3 is a SOTA (state-of-the-art) real-time Object Detection model. It was pub
 
 Figure 1: Input live samples for YOLOv3
 
-1
